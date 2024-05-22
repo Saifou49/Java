@@ -1,0 +1,11 @@
+package de.example.main;
+
+public class MyBankMain extends MyBankView{
+	
+	public static void main(String[] args)
+	{
+			MyBankMain theApp = new MyBankMain();
+		
+	}
+
+}

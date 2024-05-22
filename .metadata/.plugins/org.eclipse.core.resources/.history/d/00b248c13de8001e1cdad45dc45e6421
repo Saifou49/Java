@@ -1,0 +1,11 @@
+package de.example.mybanktogetrich.view;
+
+public class MyBankMain extends MyBankView{
+	
+	public static void main(String[] args)
+	{
+			MyBankMain theApp = new MyBankMain();
+		
+	}
+
+}
